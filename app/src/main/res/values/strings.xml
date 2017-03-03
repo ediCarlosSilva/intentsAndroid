@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="next_screen">Próxima tela</string>
+    <string name="second_screen">Nova tela</string>
+</resources>
